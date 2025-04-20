@@ -2,7 +2,7 @@
 Made a PDF file splitter for carrying out various documentation related work, implementing the use of PyPDF2.
 
 
-##How to use:
+## How to use:
 
 - Download the file
 - Run the file using your preferred IDE.
