@@ -8,3 +8,9 @@ Made a PDF file splitter for carrying out various documentation related work, im
 - Run the file using your preferred IDE.
 - Provide the address of the PDF file to be split.
 - Provide the address of the folder where the split pages are to be stored.
+
+
+## Prerequisite:
+
+Have PyPDF2 installed on your system:
+> pip install PyPDF2
